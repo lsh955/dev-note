@@ -10,7 +10,7 @@ eslint-plugin-prettier 로 prettier 의 포매팅 기능을 사용 할 예정이
 
 ## 문제상황
 
-![](/resources/images/스크린샷 2022-08-15 오후 4.50.31.png)
+![문제상황 01](/resources/images/eslint_replace_01.png)
 
 import {} 변수명을 기제하는 구간에 에러같은 빨간 줄이 보인다. 이는 {변수명} 에서 { 변수명 } 으로 수정하면 되는 문제다.<br>
 개인적으로 하는 플젝이나 간단한 테스트같은 경우에는 구지 지키고 싶지은 않아 해당 기능을 끄고 싶었다.
@@ -36,4 +36,4 @@ rules: {
 
 아래와 같이 빨간 줄 없이 해결
 
-![](/resources/images/스크린샷 2022-08-15 오후 4.50.37.png)
+![해결방법 01](/resources/images/eslint_replace_02.png)
