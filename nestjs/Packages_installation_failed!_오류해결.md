@@ -3,6 +3,8 @@
 nest.js 로 새로운 프로젝트를 생성하기 위해 ```$ nest new project_name``` 해당 명령어를 터미널에 입력했다.<br>
 패키지 매니저로 yarn 을 선택하니 아래와 같은 오류 메시지가 나타났다.
 
+## 문제상황
+
 ```shell
 ? Which package manager would you ❤️  to use? yarn
 
@@ -20,6 +22,8 @@ In case you don't see any errors above, consider manually running the failed com
                🍷  Donate: https://opencollective.com/nest
 ```
 ```$ yarn install --silent``` 명령어를 실행시키다 실패했다. 그러면 터미널에 ```$ yarn install --silent``` 명령어를 쳐보자...
+
+## 해결방법
 
 ```shell
 sudo yarn install --silent
