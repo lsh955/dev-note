@@ -1,4 +1,4 @@
-# Development Notes 
+# Development Note
 이전까지 블로그나 GitLab 에 내용을 기록 해 왔었지만, 앞으로 GitHub 에 적을 생각이다.(다시 시작하자 라는 뜻과 같다.)<br>
 이전에 작성했던 내용은 GitHub 으로 이관하지 않고 또 공개하지 않을 거다.
 
